@@ -9,7 +9,7 @@ const config = {
 			// these options are set automatically — see below
 			pages: 'build',
 			paths: {
-				base: process.argv.includes('dev') ? '' : process.env.BASE_PATH
+				base: process.argv.includes('dev') ? '' : '/sveltekit-gh-deploy'
 			},
 			assets: 'build',
 			fallback: undefined,
