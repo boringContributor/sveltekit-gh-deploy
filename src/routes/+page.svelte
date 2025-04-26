@@ -12,19 +12,16 @@
     <div class="feature-card">
       <h2>Documentation</h2>
       <p>Comprehensive guides and API references to help you build better applications.</p>
-      <a href="/docs" class="button">Explore Docs</a>
     </div>
 
     <div class="feature-card">
       <h2>Resources</h2>
       <p>Access tools, libraries, and best practices to accelerate your development.</p>
-      <a href="/resources" class="button">View Resources</a>
     </div>
 
     <div class="feature-card">
       <h2>Community</h2>
       <p>Join our developer community to share knowledge and get support.</p>
-      <a href="/community" class="button">Join Us</a>
     </div>
   </section>
 </main>
